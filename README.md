@@ -1,6 +1,6 @@
-# Student Record Management System (C++)
+# Student Record Management System (C)
 
-A simple command-line student record management system built in C++ with an interactive CLI.
+A simple command-line student record management system built in C with an interactive CLI.
 
 ## Screenshots
 
@@ -18,7 +18,7 @@ A simple command-line student record management system built in C++ with an inte
 
 ## Requirements
 
-- C++17 compiler (g++ or clang++)
+- C compiler (g++ or clang++)
 - No external dependencies required!
 # srms
 student record management system
